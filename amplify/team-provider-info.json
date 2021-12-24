@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-colorado-dev-142149-authRole",
+      "UnauthRoleArn": "arn:aws:iam::337360241061:role/amplify-colorado-dev-142149-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::337360241061:role/amplify-colorado-dev-142149-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-colorado-dev-142149-deployment",
+      "UnauthRoleName": "amplify-colorado-dev-142149-unauthRole",
+      "StackName": "amplify-colorado-dev-142149",
+      "StackId": "arn:aws:cloudformation:us-east-1:337360241061:stack/amplify-colorado-dev-142149/13a34200-64b4-11ec-8de2-0a1236f26be3",
+      "AmplifyAppId": "d34ten5lmecdec"
+    }
+  }
+}
